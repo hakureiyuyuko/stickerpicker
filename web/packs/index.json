@@ -1,7 +1,10 @@
 {
   "packs": [
     "usefulbird_by_favorite_stickers_bot.json",
-    "genshin_sticker2.json"
+    "genshin_sticker2.json",
+    "princessconnect_by_favorite_stickers_bot.json",
+    "cnsztl.json",
+    "ITvsManager.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
